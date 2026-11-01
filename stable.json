@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "schema": 1,
+    "app_id": "jumpon-customer",
+    "version": "0.3.19-pilot",
+    "sequence": 1793548461,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v0.3.19-pilot/JumpON-Setup-0.3.19-pilot.exe",
+    "sha256": "77c147b9fb285680397b4229e292e4e477d02543301ffa3f3c644db6314e9382",
+    "size": 68430306,
+    "published_at": 1793548461,
+    "expires_at": 1825170861,
+    "notes": "자동 업데이트 · 광고 목록 간소화 · 점프ON 아이콘 개선"
+  },
+  "signature": "39DIkekt6ZNNqvEkWmGhBVr0Y24VJRmW86XQ5Q597sE6YIirwA5BzRtrh2tkRVFbMUz8QNq9/U87W8rceIkXDg=="
+}
