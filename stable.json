@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "0.3.25-pilot",
-    "sequence": 1793608723,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v0.3.25-pilot/JumpON-Setup-0.3.25-pilot.exe",
-    "sha256": "2309d99c447e16e3157ed9a150663380a49c9bfa1f1e6dbeb661868293f3694c",
-    "size": 68407448,
-    "published_at": 1793608723,
-    "expires_at": 1825231123,
-    "notes": "마우스 휠 스크롤 개선"
+    "version": "0.3.26-pilot",
+    "sequence": 1793627333,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v0.3.26-pilot/JumpON-Setup-0.3.26-pilot.exe",
+    "sha256": "66e02b13285979ff9e12d9714d3b55e4d837d9288649a1c2ccb000301563da93",
+    "size": 68410796,
+    "published_at": 1793627333,
+    "expires_at": 1825249733,
+    "notes": "광고 카드에서 바로 보류 해제"
   },
-  "signature": "oNbJnkCk6Oyimy+lyYe6ms/GPISjKIrAQgS0IjVfQa9fmX/rhYhjVFthep4+1dUd3ZsIx3EyGIpOhnkTT/C7CQ=="
+  "signature": "NvLC1v+F9ejQpiAjNU6hc8etUfwHaGKZ9M3AaMizo42SGhQ2XE0vUqiXUtygh6e6dialmtuqfi8UkoVWGbvfCQ=="
 }
