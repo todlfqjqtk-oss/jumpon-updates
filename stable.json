@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "0.3.23-pilot",
-    "sequence": 1793600053,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v0.3.23-pilot/JumpON-Setup-0.3.23-pilot.exe",
-    "sha256": "64706ac82ff463ddfe0a0f5f5c92ebd3d3a760b2f59e27fad8f770113198841d",
-    "size": 68437623,
-    "published_at": 1793600053,
-    "expires_at": 1825222453,
-    "notes": "화면·버튼 반응속도 개선 · 불필요한 반복 갱신 감소"
+    "version": "0.3.24-pilot",
+    "sequence": 1793605317,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v0.3.24-pilot/JumpON-Setup-0.3.24-pilot.exe",
+    "sha256": "9963a4ef079defcdedd41893bc8de3d5b5409b180948f94f0ce251c1a3e62f55",
+    "size": 68409156,
+    "published_at": 1793605317,
+    "expires_at": 1825227717,
+    "notes": "화면 전환·버튼 반응속도 개선 · 회원 비밀번호 8자 이상"
   },
-  "signature": "/U/wPrFZatohFls+WXrJ7cTyBzgR7WitdPyE/sfEvEmAxHfxehaDCmb5h+bA5IvHKpAMmNzTRuEVJet7W1hYCw=="
+  "signature": "GTvSHJYcm3DqXpAssd2VCAjq9z+RNbQvqJ64U0kfRRJwaRx3Fupp1aH0EDamXWr6KZ4F9B4zOnoclyJa1zNFAg=="
 }
