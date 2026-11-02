@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "0.3.22-pilot",
-    "sequence": 1793597186,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v0.3.22-pilot/JumpON-Setup-0.3.22-pilot.exe",
-    "sha256": "eb5ec2450b41ad23adea9b7befcc5898fa7cfd8183aaa142bfde05267dac33b3",
-    "size": 68438165,
-    "published_at": 1793597186,
-    "expires_at": 1825219586,
-    "notes": "오피가이드 예약 보류 수정 · 광고별 점프 · 상단 업데이트 확인"
+    "version": "0.3.23-pilot",
+    "sequence": 1793600053,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v0.3.23-pilot/JumpON-Setup-0.3.23-pilot.exe",
+    "sha256": "64706ac82ff463ddfe0a0f5f5c92ebd3d3a760b2f59e27fad8f770113198841d",
+    "size": 68437623,
+    "published_at": 1793600053,
+    "expires_at": 1825222453,
+    "notes": "화면·버튼 반응속도 개선 · 불필요한 반복 갱신 감소"
   },
-  "signature": "ZfKDkKf91zdR9UN+2eVcmYNzgLXhQfPb1Nsb5B7c5R4+EwYFnYmENq5pAPtWrpTqYvkD4PZ+aOHl62kkvRwFBw=="
+  "signature": "/U/wPrFZatohFls+WXrJ7cTyBzgR7WitdPyE/sfEvEmAxHfxehaDCmb5h+bA5IvHKpAMmNzTRuEVJet7W1hYCw=="
 }
