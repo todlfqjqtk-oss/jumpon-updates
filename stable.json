@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "0.3.26-pilot",
-    "sequence": 1793627333,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v0.3.26-pilot/JumpON-Setup-0.3.26-pilot.exe",
-    "sha256": "66e02b13285979ff9e12d9714d3b55e4d837d9288649a1c2ccb000301563da93",
-    "size": 68410796,
-    "published_at": 1793627333,
-    "expires_at": 1825249733,
-    "notes": "광고 카드에서 바로 보류 해제"
+    "version": "0.3.27-pilot",
+    "sequence": 1793630835,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v0.3.27-pilot/JumpON-Setup-0.3.27-pilot.exe",
+    "sha256": "632798e41401e0985817dffd4cc5e02c94afb7824d7bc1480ab73695433f1931",
+    "size": 68421770,
+    "published_at": 1793630835,
+    "expires_at": 1825253235,
+    "notes": "자동 실행 안정화 · 상태 표시 개선"
   },
-  "signature": "NvLC1v+F9ejQpiAjNU6hc8etUfwHaGKZ9M3AaMizo42SGhQ2XE0vUqiXUtygh6e6dialmtuqfi8UkoVWGbvfCQ=="
+  "signature": "lfjCr9UwlzL840d5ZxVzN1dmouhbdV72BaCeXNXTJonXW4e6KLd9Vvwhq+ASJG2jD2hEk0hCRWCbUKGuuZgqCA=="
 }
