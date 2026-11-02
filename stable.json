@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "0.3.20-pilot",
-    "sequence": 1793560612,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v0.3.20-pilot/JumpON-Setup-0.3.20-pilot.exe",
-    "sha256": "41cbff08af5be36b70b8304ab97a2f85715eb5aa0c5e9e45c3fed998bcca9c99",
-    "size": 68428161,
-    "published_at": 1793560612,
-    "expires_at": 1825183012,
-    "notes": "자동 업데이트 · 광고 목록 간소화 · 점프ON 아이콘 개선"
+    "version": "0.3.21-pilot",
+    "sequence": 1793596115,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v0.3.21-pilot/JumpON-Setup-0.3.21-pilot.exe",
+    "sha256": "03046a12cb7b300c8692eb0a2fcc26a40778818d5d308787a777e799bd90f80a",
+    "size": 68434338,
+    "published_at": 1793596115,
+    "expires_at": 1825218515,
+    "notes": "오피가이드 예약 보류 수정 · 광고별 1회 점프 추가"
   },
-  "signature": "lPKoujr/mf0aBHXwOSqoLFgL/tpyeK4jimubr4bK51pEyVj8MrDDS/Tcv1P7bMseW5rZu21nbZ6OGBkDHB1qCQ=="
+  "signature": "J1PM89EF9dzkdFvKHRw8Rl3UPiWP3y2SblRWiwYLwVButvOY2O/mi3CXo8MpJz/a+WdJAWJwL2NX8iwMXduPCA=="
 }
