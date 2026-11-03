@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "0.3.28-pilot",
-    "sequence": 1793632218,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v0.3.28-pilot/JumpON-Setup-0.3.28-pilot.exe",
-    "sha256": "7b9dcf415b3532701790e8ef5c3eb38f85e2491c7fd3978819dd2e4b758952b6",
-    "size": 68421451,
-    "published_at": 1793632218,
-    "expires_at": 1825254618,
-    "notes": "오피스타 거절 처리 개선 · 자동 실행 안정화"
+    "version": "1.0.0",
+    "sequence": 1793698602,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.0.0/JumpON-Setup-1.0.0.exe",
+    "sha256": "716ba55266b2bfb35104b311596a7ae231c8882ef269f79213836521b3f5acb6",
+    "size": 68423427,
+    "published_at": 1793698602,
+    "expires_at": 1825321002,
+    "notes": "정식 1.0"
   },
-  "signature": "6CHqVwI3isCiXAVJ/mUNhuh5LKrWj7T3PSsWqV10kxO79sLc/9FQ1GqdowsFMx3/h1x2m1QbRjL36J8UHS9LCg=="
+  "signature": "HWTIppAUbdKVFoDftrFgl+aL/DOXQ93JXvGsO4rzqr/fwFAtt8smGgINyEWZflEGKY3V8EPfFGvlYQs1r7h/DQ=="
 }
