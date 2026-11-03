@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "1.0.0",
-    "sequence": 1793698602,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.0.0/JumpON-Setup-1.0.0.exe",
-    "sha256": "716ba55266b2bfb35104b311596a7ae231c8882ef269f79213836521b3f5acb6",
-    "size": 68423427,
-    "published_at": 1793698602,
-    "expires_at": 1825321002,
-    "notes": "정식 1.0"
+    "version": "1.0.1",
+    "sequence": 1793699982,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.0.1/JumpON-Setup-1.0.1.exe",
+    "sha256": "ed94591af8e763a43ad2ba92a7470ce19ab15f74cb2c1b48e8332b96ea712ad9",
+    "size": 68421840,
+    "published_at": 1793699982,
+    "expires_at": 1825322382,
+    "notes": "오피가이드 로그인 직후 확인 개선"
   },
-  "signature": "HWTIppAUbdKVFoDftrFgl+aL/DOXQ93JXvGsO4rzqr/fwFAtt8smGgINyEWZflEGKY3V8EPfFGvlYQs1r7h/DQ=="
+  "signature": "eTMn87wXDDQbusJ8ijNwjfLpnbADuimx9VMtqkw9NyF8TWTvd8VSVeK4a2+hWjT48x9iAdnD69Ffjk6AJ3xRCw=="
 }
