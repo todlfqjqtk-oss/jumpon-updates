@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "1.1.0",
-    "sequence": 1793767774,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.0/JumpON-Setup-1.1.0.exe",
-    "sha256": "c8902973abcf7028b909b0fc74dc0269314143e39debb2b276badfa04c4cd3b7",
-    "size": 68438821,
-    "published_at": 1793767774,
-    "expires_at": 1825390174,
-    "notes": "광고 사이트 10개 추가"
+    "version": "1.1.1",
+    "sequence": 1793776911,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.1/JumpON-Setup-1.1.1.exe",
+    "sha256": "ec2fddfc24ce9c31dd337b534a45be6d86e462cb6f3818b2413b8aca009f7b2f",
+    "size": 68449063,
+    "published_at": 1793776911,
+    "expires_at": 1825399311,
+    "notes": "자동 실행 중 설정 가능 · 새 사이트 가디언 방식"
   },
-  "signature": "xSLE2IpFatgmmkRwWe+gorvRh+wfKbDJBn/lmdDZJTxEkUZXSDSYexV4gs361znLW7bgP/IeiQzJ9k52CSyfCA=="
+  "signature": "H0qnNMqqJYoBwJljpEtfiFjAOi24QbRbyEMNSYyTpnF3XvUrHB6vtg6aPY3yGJoG9wz/AW+hk8gCF05/dj2ZDQ=="
 }
