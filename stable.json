@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "1.1.1",
-    "sequence": 1793776911,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.1/JumpON-Setup-1.1.1.exe",
-    "sha256": "ec2fddfc24ce9c31dd337b534a45be6d86e462cb6f3818b2413b8aca009f7b2f",
-    "size": 68449063,
-    "published_at": 1793776911,
-    "expires_at": 1825399311,
-    "notes": "자동 실행 중 설정 가능 · 새 사이트 가디언 방식"
+    "version": "1.1.2",
+    "sequence": 1793804933,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.2/JumpON-Setup-1.1.2.exe",
+    "sha256": "25f9782aa1eaacfb73a81e672d9f9b5c26dd2fdf72e00dc8a1ca170d9957c35e",
+    "size": 68451652,
+    "published_at": 1793804933,
+    "expires_at": 1825427333,
+    "notes": "오피가이드 1분 간격 점프 보류 수정"
   },
-  "signature": "H0qnNMqqJYoBwJljpEtfiFjAOi24QbRbyEMNSYyTpnF3XvUrHB6vtg6aPY3yGJoG9wz/AW+hk8gCF05/dj2ZDQ=="
+  "signature": "cZVg5FA2ZoG1EJSCDFBQxllWZ2DKAHkl3U9zOBzPVFjfSGsUK+56TMz8B83MKpmA8adKuau/C1hnGlTOlrGBDQ=="
 }
