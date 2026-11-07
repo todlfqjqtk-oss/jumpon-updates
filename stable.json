@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "1.1.3",
-    "sequence": 1794028508,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.3/JumpON-Setup-1.1.3.exe",
-    "sha256": "774cdf9397e8fb3e1bae78991b448ed0183dcecbfb096003630f08be3b8aa3a5",
-    "size": 68455494,
-    "published_at": 1794028508,
-    "expires_at": 1825650908,
-    "notes": "업체별 「오늘 하루 쉬기」 추가"
+    "version": "1.1.4",
+    "sequence": 1794032201,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.4/JumpON-Setup-1.1.4.exe",
+    "sha256": "63a49c5b0e3980134097182a6aaf40c92b706e128e0b339262581a2eea455e17",
+    "size": 68454504,
+    "published_at": 1794032201,
+    "expires_at": 1825654601,
+    "notes": "「오늘 하루 쉬기」 버튼을 맨 위로"
   },
-  "signature": "mEipatogc6sm/6Rg/RJvgfRG4TQVLFGaPThAMdVg8NyHtGKRt7UihwGixASWXOoSYYbB5QRRM2oHy0P9ZBNjCA=="
+  "signature": "BYp5zG3okdd4OmhnLv0vGGPxMw0xiLuOtOK6omfU9c9yavhuMX5IQgE8hWFSMTjQbG5yFj9/D/S3zlezanImAg=="
 }
