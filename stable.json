@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "1.1.2",
-    "sequence": 1793804933,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.2/JumpON-Setup-1.1.2.exe",
-    "sha256": "25f9782aa1eaacfb73a81e672d9f9b5c26dd2fdf72e00dc8a1ca170d9957c35e",
-    "size": 68451652,
-    "published_at": 1793804933,
-    "expires_at": 1825427333,
-    "notes": "오피가이드 1분 간격 점프 보류 수정"
+    "version": "1.1.3",
+    "sequence": 1794028508,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.3/JumpON-Setup-1.1.3.exe",
+    "sha256": "774cdf9397e8fb3e1bae78991b448ed0183dcecbfb096003630f08be3b8aa3a5",
+    "size": 68455494,
+    "published_at": 1794028508,
+    "expires_at": 1825650908,
+    "notes": "업체별 「오늘 하루 쉬기」 추가"
   },
-  "signature": "cZVg5FA2ZoG1EJSCDFBQxllWZ2DKAHkl3U9zOBzPVFjfSGsUK+56TMz8B83MKpmA8adKuau/C1hnGlTOlrGBDQ=="
+  "signature": "mEipatogc6sm/6Rg/RJvgfRG4TQVLFGaPThAMdVg8NyHtGKRt7UihwGixASWXOoSYYbB5QRRM2oHy0P9ZBNjCA=="
 }
