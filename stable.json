@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "1.1.4",
-    "sequence": 1794032201,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.4/JumpON-Setup-1.1.4.exe",
-    "sha256": "63a49c5b0e3980134097182a6aaf40c92b706e128e0b339262581a2eea455e17",
-    "size": 68454504,
-    "published_at": 1794032201,
-    "expires_at": 1825654601,
-    "notes": "「오늘 하루 쉬기」 버튼을 맨 위로"
+    "version": "1.1.5",
+    "sequence": 1794205003,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.5/JumpON-Setup-1.1.5.exe",
+    "sha256": "caee087cf28b5a911e08b7f43b9f7dc6b6e5738e2ebf889736515672ee96c430",
+    "size": 68458782,
+    "published_at": 1794205003,
+    "expires_at": 1825827403,
+    "notes": "자동 실행 중에도 전체 1회·1회 점프 가능"
   },
-  "signature": "BYp5zG3okdd4OmhnLv0vGGPxMw0xiLuOtOK6omfU9c9yavhuMX5IQgE8hWFSMTjQbG5yFj9/D/S3zlezanImAg=="
+  "signature": "sHkBI69cVcOt5LywgMzyu0voCHXhzrtZp7dHg9OoX0pNKe5Rf0oOqUGJXjAIcuWlZXh/hBO59w1Vr6mseFEnAA=="
 }
