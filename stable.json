@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "1.1.7",
-    "sequence": 1794302689,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.7/JumpON-Setup-1.1.7.exe",
-    "sha256": "bfa6fffed37be85c363770d4c58b54c66a216dfb4a9f77dff10d441929640a68",
-    "size": 68025475,
-    "published_at": 1794302689,
-    "expires_at": 1825925089,
-    "notes": "새 디자인: 검정 + 노랑 화면, 광고 상태를 색과 글로 표시"
+    "version": "1.1.8",
+    "sequence": 1794305787,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.8/JumpON-Setup-1.1.8.exe",
+    "sha256": "1e8178b1b11ad8c79bb7f2528c4d15594d99053d22a467748ba10deb382afe90",
+    "size": 68024597,
+    "published_at": 1794305787,
+    "expires_at": 1825928187,
+    "notes": "나비야넷 연달아 점프할 때 로그인 실패 수정"
   },
-  "signature": "q/C3uuIvYMzQqB4vrAbsBZyReY8F041w0uoKsaTgdZ9C/UMcEAE1T9N+nnCCm2Z8IsJcYrbwjmQk8NW2LyfzAg=="
+  "signature": "p++gPia15es2VXFzz8TpX5iEr9flkR6me7jq1wh6RFuHXdtW/KQY7oIsOtFMRhhi6S6hsr6rWie4yY0p0uokDw=="
 }
