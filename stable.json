@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "1.1.5",
-    "sequence": 1794205003,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.5/JumpON-Setup-1.1.5.exe",
-    "sha256": "caee087cf28b5a911e08b7f43b9f7dc6b6e5738e2ebf889736515672ee96c430",
-    "size": 68458782,
-    "published_at": 1794205003,
-    "expires_at": 1825827403,
-    "notes": "자동 실행 중에도 전체 1회·1회 점프 가능"
+    "version": "1.1.6",
+    "sequence": 1794290413,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.6/JumpON-Setup-1.1.6.exe",
+    "sha256": "d6e769881d34da8b7de3075670bc93534a25d3e33ebf6454f2ea03ff76643bba",
+    "size": 68019826,
+    "published_at": 1794290413,
+    "expires_at": 1825912813,
+    "notes": "매일 오후 2시 사이트 주소 자동 확인·변경"
   },
-  "signature": "sHkBI69cVcOt5LywgMzyu0voCHXhzrtZp7dHg9OoX0pNKe5Rf0oOqUGJXjAIcuWlZXh/hBO59w1Vr6mseFEnAA=="
+  "signature": "XtPkjsnCIpUXNSkPqDf0LNjRme7IEVVmb3/O/rrdjMAzrt9IDAW8s1MrmpQFxSP+NSq6xhgJ555JRjV7do/SAw=="
 }
