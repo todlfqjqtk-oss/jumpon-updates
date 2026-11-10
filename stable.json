@@ -2,14 +2,14 @@
   "payload": {
     "schema": 1,
     "app_id": "jumpon-customer",
-    "version": "1.1.6",
-    "sequence": 1794290413,
-    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.6/JumpON-Setup-1.1.6.exe",
-    "sha256": "d6e769881d34da8b7de3075670bc93534a25d3e33ebf6454f2ea03ff76643bba",
-    "size": 68019826,
-    "published_at": 1794290413,
-    "expires_at": 1825912813,
-    "notes": "매일 오후 2시 사이트 주소 자동 확인·변경"
+    "version": "1.1.7",
+    "sequence": 1794302689,
+    "url": "https://github.com/todlfqjqtk-oss/jumpon-updates/releases/download/v1.1.7/JumpON-Setup-1.1.7.exe",
+    "sha256": "bfa6fffed37be85c363770d4c58b54c66a216dfb4a9f77dff10d441929640a68",
+    "size": 68025475,
+    "published_at": 1794302689,
+    "expires_at": 1825925089,
+    "notes": "새 디자인: 검정 + 노랑 화면, 광고 상태를 색과 글로 표시"
   },
-  "signature": "XtPkjsnCIpUXNSkPqDf0LNjRme7IEVVmb3/O/rrdjMAzrt9IDAW8s1MrmpQFxSP+NSq6xhgJ555JRjV7do/SAw=="
+  "signature": "q/C3uuIvYMzQqB4vrAbsBZyReY8F041w0uoKsaTgdZ9C/UMcEAE1T9N+nnCCm2Z8IsJcYrbwjmQk8NW2LyfzAg=="
 }
